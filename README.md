@@ -1,0 +1,1 @@
+This repository contains a simple Python program demonstrating a common coding error: forgetting to close a parenthesis or bracket in a function definition.  The bug is subtle and can be challenging to locate in larger codebases. The solution shows how to correct the syntax error and ensures the code runs correctly.
